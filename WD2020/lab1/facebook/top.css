@@ -1,0 +1,45 @@
+body, p{
+
+  margin: 0;
+  padding: 0;
+}
+/* button {
+  height: auto;
+} */
+.top {
+  padding: 10px 15%;
+  display: flex;
+  justify-content: space-between;
+
+  background-color: #1D3C78;
+}
+.header-logo {
+  width: 200px;
+}
+.registration {
+  width: 47%;
+  display: flex;
+  justify-content: space-between;
+}
+.top_inputBox {
+  color: white;
+
+}
+.top_input {
+  margin: 5px 0;
+}
+#forgot{
+  color: white;
+  opacity: ;
+}
+.button {
+  height: 20px;
+  padding: 0px 6px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.button_title {
+  color: #1D3C78;
+}
+s

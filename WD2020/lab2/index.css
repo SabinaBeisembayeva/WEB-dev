@@ -1,0 +1,75 @@
+body, h1, h2, h3, h4, h5, h6, input, button, img, p {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+.top {
+  width: 100%
+
+}
+.label {
+  padding: 15px 30px;
+  font: 15px Helvetica, Arial, sans-serif;
+  background-color: black;
+  color: white;
+  opacity:70%;
+  margin-bottom: 70px;
+}
+
+.center {
+  margin: 0 auto;
+  width: 60%;
+  /* border: 1px solid red; */
+  padding: 10px 100px;
+  text-align: center;
+}
+#todolist {
+  font: 40px Helvetica, Arial,sans-serif:
+  color: gray;
+}
+
+.inputs {
+  /* border: 1px solid green; */
+  box-sizing: border-box;
+  padding: 10px 50px;
+  width: 100%;
+  text-align: center;
+}
+.input {
+  padding: 5px 10px;
+  width: 60%;
+  font: 20px Helvetica, Arial, sans-serif;
+}
+.button {
+  width: 10%;
+  font: 20px Helvetica, Arial, sans-serif;
+}
+.trash {
+  width: 30px;
+}
+
+
+.list {
+  /* border: 1px solid red; */
+}
+
+.item {
+  padding: 30px 130px;
+  /*border: 1px solid green; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.inputBox {
+
+  display: flex;
+  align-items: center;
+}
+.inputBox p {
+  margin-left: 10px;
+  font: 20px Helvetica, Arial, sans-serif;
+}
+
+.cross {
+  text-decoration: line-through;
+}

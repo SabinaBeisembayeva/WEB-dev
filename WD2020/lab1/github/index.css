@@ -1,0 +1,125 @@
+body{
+  margin: 0;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif
+}
+.container{
+  display: block;
+}
+.header1{
+  background-color: #262626;
+}
+.header{
+  display: flex;
+}
+.header img{
+  height: 40px;
+  width: auto;
+  margin: 20px 20px 20px 45px;
+}
+.header span{
+  font-size: 16px;
+  margin: 30px 10px;
+  color: white;
+}
+.header input{
+  background-color:  #404040;
+  margin-top: 25px;
+  margin-left: 400px; 
+  height: 30px;
+  width: 200px;
+  padding-left: 10px;
+  border-radius: 4px 4px 4px 4px;
+  font-size: 14px;
+  text-decoration-color: #b3b3b3;
+  border: 1px solid #262626;
+}
+.signin{
+  color: white;
+  margin-top: 30px;
+  margin-left: 20px;
+  font-size: 16px;
+  text-decoration: none;
+}
+.signup{
+  color: white;
+  border: 1px solid white;
+  margin-top: 25px;
+  height: 22px;
+  font-size: 16px;
+  margin-left: 20px; 
+  padding: 5px 5px 5px 5px;
+  text-decoration: none;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.git-body{
+	background-color: #333;
+	height: 585px;
+	margin-top: -150px;
+}
+
+#intro{
+	margin-top: 100px;
+	position: absolute;
+}
+#int{
+	position: absolute;
+	font-size: 70px;
+	color: black;
+	margin-left: 200px;
+
+}
+#intro1{
+	position: relative;
+	margin-top: 180px;
+	margin-left: 200px;
+	font-size: 20px;
+	color: gray;
+}
+#form1{
+	font-size: 16px;
+	color: black;
+	margin-left: 720px;
+	margin-bottom: 5px;
+	margin-top: 150px;
+}
+
+#id{
+	margin-top: 5px;
+	margin-bottom: 15px;
+	padding-right: 240px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: solid lightgray 0.5px;
+	border-radius: 5px; 
+}
+#int1{
+	font-size: 13px; 
+	margin-left: 723px;
+}
+a{
+	text-decoration: none;
+	color: #5b7bc0;
+}
+
+button{
+	background-color: white;
+	width:410px;
+	height:60px;
+	top:625px;
+	background:#37E264;
+	font-size:18px;
+	color:white;
+	border: solid black 0.3px;
+	border-radius:2px;
+	cursor:pointer;
+	outline:none;
+	margin-left: 720px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#out{
+	font-size: 13px;
+	margin-left: 723px;
+}
